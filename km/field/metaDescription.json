@@ -1,0 +1,15 @@
+{
+  "$id": "metaDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Meta Description",
+  "apiName": "c_metaDescription",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 4000
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

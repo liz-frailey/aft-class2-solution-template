@@ -1,0 +1,122 @@
+{
+  "$id": "f844161494ae11ea897accc5e5152360",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "name": "Wholesale Direct Auto Parts - Categories + Content",
+  "externalId": "wholesaleDirectAutoPartsCategoriesContent",
+  "localeCode": "en",
+  "entityTypes": [
+    "yext/location"
+  ],
+  "content": {
+    "c_eventsDefaultImage": {
+      "image": {
+        "alternateText": "Events Image",
+        "height": 250,
+        "thumbnails": [
+          {
+            "height": 132,
+            "url": "http://a.mktgcdn.com/p/fyLrmKIctqgq9RhplYHonDMZoJpGPbORGADii8MqruE/619x132.jpg",
+            "width": 619
+          },
+          {
+            "height": 128,
+            "url": "http://a.mktgcdn.com/p/fyLrmKIctqgq9RhplYHonDMZoJpGPbORGADii8MqruE/600x128.jpg",
+            "width": 600
+          },
+          {
+            "height": 41,
+            "url": "http://a.mktgcdn.com/p/fyLrmKIctqgq9RhplYHonDMZoJpGPbORGADii8MqruE/195x41.jpg",
+            "width": 195
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/fyLrmKIctqgq9RhplYHonDMZoJpGPbORGADii8MqruE/1170x250.jpg",
+        "width": 1170
+      }
+    },
+    "c_geomodifier": "[[address.city]]",
+    "c_heroImage": {
+      "image": {
+        "alternateText": "[[name]] [[c_geomodifier]] Hero Image",
+        "height": 295,
+        "thumbnails": [
+          {
+            "height": 152,
+            "url": "http://a.mktgcdn.com/p/_3ivISFho7V9OmFuL4lEo4biYCj8whnSnZsoFLNa9uQ/619x152.jpg",
+            "width": 619
+          },
+          {
+            "height": 147,
+            "url": "http://a.mktgcdn.com/p/_3ivISFho7V9OmFuL4lEo4biYCj8whnSnZsoFLNa9uQ/600x147.jpg",
+            "width": 600
+          },
+          {
+            "height": 48,
+            "url": "http://a.mktgcdn.com/p/_3ivISFho7V9OmFuL4lEo4biYCj8whnSnZsoFLNa9uQ/196x48.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/_3ivISFho7V9OmFuL4lEo4biYCj8whnSnZsoFLNa9uQ/1200x295.jpg",
+        "width": 1200
+      }
+    },
+    "c_pagesBusinessDescription": {
+      "details": "Wholesale Direct Auto Parts in [Geomodifier] offers thousands of high-quality new auto parts and accessories at discounted prices while delivering a smarter, easier shopping solution for our valued customers! Finding the right car part to get you back on the road should never be an expensive hassle. At Wholesale Direct Auto Parts [Geomodifier] we are dedicated to saving our customers time and money!",
+      "image": {
+        "alternateText": "Visit Wholesale Direct Auto Parts in [Geomodifier} for value priced, high quality auto parts.",
+        "height": 265,
+        "thumbnails": [
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p/kQfvq91n9IgHuaaw8mNhuxiwuOkWWuttnZ2gpoEZuaE/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/kQfvq91n9IgHuaaw8mNhuxiwuOkWWuttnZ2gpoEZuaE/470x265.jpg",
+        "width": 470
+      }
+    },
+    "c_servicesSection1": [
+      "Alternators",
+      "Starters",
+      "Radiators",
+      "Car Batteries",
+      "Car Battery Charger",
+      "Battery Testers",
+      "Motorcycle Batteries",
+      "Lawn and Garden Batteries"
+    ],
+    "c_servicesSection2": [
+      "Brake Pads",
+      "Brake Rotors",
+      "Brake Caliper",
+      "Brake Kits",
+      "Wheel Bearings",
+      "Shocks and Struts",
+      "Chassis Parts"
+    ],
+    "c_servicesSection3": [
+      "Motor Oil",
+      "Car Wash",
+      "Car Wax",
+      "Antifreeze",
+      "Windshield Washer Fluid",
+      "Car Paint",
+      "Oil Filters",
+      "Blue Def"
+    ],
+    "c_servicesSection42": [
+      "Floor Mats",
+      "Seat Cover",
+      "Steering Wheel Covers",
+      "Truck Accessories",
+      "Car Covers",
+      "Roof Racks",
+      "Emergency Supplies"
+    ],
+    "c_showInLocator": false,
+    "yext/closed": false,
+    "yext/featuredMessage": {
+      "description": "Lowest prices on auto parts. Period."
+    }
+  }
+}

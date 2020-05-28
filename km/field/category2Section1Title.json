@@ -1,0 +1,15 @@
+{
+  "$id": "category2Section1Title",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Category2 - Section 1 Title",
+  "apiName": "c_category2Section1Title",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

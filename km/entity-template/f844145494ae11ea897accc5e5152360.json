@@ -1,0 +1,14 @@
+{
+  "$id": "f844145494ae11ea897accc5e5152360",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "name": "FB and GMB - Account IDs + Linked Accounts",
+  "externalId": "fbAndGmbAccountIdsLinkedAccounts",
+  "localeCode": "en",
+  "entityTypes": [
+    "yext/location"
+  ],
+  "content": {
+    "yext/facebookParentPageId": "197397381058",
+    "yext/facebookStoreId": "[[entityId]]"
+  }
+}

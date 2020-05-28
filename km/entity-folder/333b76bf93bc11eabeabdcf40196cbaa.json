@@ -1,0 +1,6 @@
+{
+  "$id": "333b76bf93bc11eabeabdcf40196cbaa",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Wholesale Direct Auto Parts",
+  "parent": "yext/root"
+}

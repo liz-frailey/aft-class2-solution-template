@@ -1,0 +1,20 @@
+{
+  "$id": "faq",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "entityType": "yext/faq",
+  "enabled": false,
+  "field": [
+    {
+      "id": "additionalHoursStatus",
+      "required": false
+    },
+    {
+      "id": "metaTitle",
+      "required": false
+    },
+    {
+      "id": "partsAndAccessoriesCategoryPage",
+      "required": false
+    }
+  ]
+}

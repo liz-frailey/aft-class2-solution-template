@@ -1,0 +1,15 @@
+{
+  "$id": "tempRetailSun",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp Retail Sun",
+  "apiName": "c_tempRetailSun",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

@@ -1,0 +1,28 @@
+{
+  "$id": "healthcareFacility",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "entityType": "yext/healthcareFacility",
+  "enabled": false,
+  "field": [
+    {
+      "id": "additionalHoursStatus",
+      "required": false
+    },
+    {
+      "id": "gMB_labels",
+      "required": false
+    },
+    {
+      "id": "heroImageMobile",
+      "required": false
+    },
+    {
+      "id": "metaTitle",
+      "required": false
+    },
+    {
+      "id": "partsAndAccessoriesCategoryPage",
+      "required": false
+    }
+  ]
+}

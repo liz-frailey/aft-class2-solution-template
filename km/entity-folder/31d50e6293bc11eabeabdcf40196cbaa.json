@@ -1,0 +1,6 @@
+{
+  "$id": "31d50e6293bc11eabeabdcf40196cbaa",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Distribution Centers",
+  "parent": "31f4163e93bc11eabeabdcf40196cbaa"
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "088b314694af11ea897accc5e5152360",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "name": "Just Brakes Categories + Content",
+  "externalId": "justBrakesCategoriesContent",
+  "entityTypes": [
+    "yext/location"
+  ],
+  "labelsToApply": [],
+  "content": {
+    "c_appleBusinessName": "[[name]]",
+    "c_appointmentURL": "http://www.justbrakes.com/Schedule-Appointment/",
+    "c_locatorFilter": [
+      "SERVICE"
+    ],
+    "c_pageType": "SERVICES_AND_PARTS",
+    "c_showInLocator": true,
+    "yext/description": "Just Brakes provides auto repair and factory scheduled maintenance services, including brakes, oil changes, fluid services, batteries, belts, hoses and more.",
+    "yext/name": "Just Brakes",
+    "yext/websiteUrl": {
+      "displayUrl": "http://www.justbrakes.com/",
+      "preferDisplayUrl": false,
+      "url": "http://www.justbrakes.com/"
+    }
+  }
+}

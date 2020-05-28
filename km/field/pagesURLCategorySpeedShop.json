@@ -1,0 +1,15 @@
+{
+  "$id": "pagesURLCategorySpeedShop",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Pages URL - Category Speed Shop",
+  "apiName": "c_pagesURLCategorySpeedShop",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

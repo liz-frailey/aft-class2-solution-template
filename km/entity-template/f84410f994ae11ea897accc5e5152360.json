@@ -1,0 +1,10 @@
+{
+  "$id": "f84410f994ae11ea897accc5e5152360",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "name": "Categories - Gas Station",
+  "externalId": "categoriesGasStation",
+  "localeCode": "en",
+  "entityTypes": [
+    "yext/location"
+  ]
+}

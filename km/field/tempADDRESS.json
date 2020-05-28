@@ -1,0 +1,15 @@
+{
+  "$id": "tempADDRESS",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp ADDRESS",
+  "apiName": "c_tempADDRESS",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

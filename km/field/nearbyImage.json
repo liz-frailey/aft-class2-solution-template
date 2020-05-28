@@ -1,0 +1,19 @@
+{
+  "$id": "nearbyImage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Nearby Image",
+  "apiName": "c_nearbyImage",
+  "typeId": "yext/image",
+  "type": {
+    "imageType": {
+      "minSize": {
+        "width": 0,
+        "height": 0
+      },
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

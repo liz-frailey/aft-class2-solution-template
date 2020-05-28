@@ -1,0 +1,21 @@
+{
+  "$id": "category1BrakeParts",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Category1 - Brake Parts",
+  "apiName": "c_category1BrakeParts",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "maxLength": 1000,
+      "type": {
+        "stringType": {
+          "maxLength": 100,
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

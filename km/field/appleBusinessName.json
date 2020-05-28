@@ -1,0 +1,16 @@
+{
+  "$id": "appleBusinessName",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Apple Business Name",
+  "apiName": "c_appleBusinessName",
+  "description": "Business name used for Apple listings. This was originally intended to be used in order to send a standard business name (e.g., \"Pep Boys Auto Service \u0026 Tire\") to Apply only, while all other publishers had a more customized name (e.g., \"Pep Boys Auto Service \u0026 Tire - Formerly Just Brakes\") due to sensitivities around Apple listing names.",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

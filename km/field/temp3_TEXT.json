@@ -1,0 +1,15 @@
+{
+  "$id": "temp3_TEXT",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp 3_TEXT",
+  "apiName": "c_temp3_TEXT",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

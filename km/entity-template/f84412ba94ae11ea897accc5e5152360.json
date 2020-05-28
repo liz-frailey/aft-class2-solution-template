@@ -1,0 +1,488 @@
+{
+  "$id": "f84412ba94ae11ea897accc5e5152360",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "name": "Content - Auto Parts \u0026 Accessories",
+  "externalId": "contentAutoPartsAccessories",
+  "localeCode": "en",
+  "entityTypes": [
+    "yext/location"
+  ],
+  "content": {
+    "c_appImage": {
+      "image": {
+        "height": 398,
+        "thumbnails": [
+          {
+            "height": 256,
+            "url": "http://a.mktgcdn.com/p/Az68oWPeYu2jBt6xBpI8swqyNe7sxil_E2iNeWuxdNU/196x256.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/Az68oWPeYu2jBt6xBpI8swqyNe7sxil_E2iNeWuxdNU/304x398.jpg",
+        "width": 304
+      }
+    },
+    "c_appointmentURL": "https://www.pepboys.com/appointment?store\u003d[[c_4DigitEntityID]]",
+    "c_brands": [
+      {
+        "clickthroughUrl": "https://www.pepboys.com/tires/brand/michelin",
+        "description": "Michelin",
+        "details": "Pep Boys is proud to offer Michelin Tires.  Michelin Tires feature Michelin Total Performance, a result of its 125 year obsession with improving mobility. Michelin has been focused on finding new solutions for your driving needs. These tires have been built to perform in grip, control, longevity, and fuel economy. Michelin has perfected the art of the tire.",
+        "image": {
+          "alternateText": "Michelin",
+          "height": 266,
+          "sourceUrl": "http://a.mktgcdn.com/p/JFVbjiJUPtCLFALWzP13L2OqaX85u94IAI8J3-4SSnA/900x266.png",
+          "thumbnails": [
+            {
+              "height": 182,
+              "url": "http://a.mktgcdn.com/p/JFVbjiJUPtCLFALWzP13L2OqaX85u94IAI8J3-4SSnA/619x182.png",
+              "width": 619
+            },
+            {
+              "height": 177,
+              "url": "http://a.mktgcdn.com/p/JFVbjiJUPtCLFALWzP13L2OqaX85u94IAI8J3-4SSnA/600x177.png",
+              "width": 600
+            },
+            {
+              "height": 57,
+              "url": "http://a.mktgcdn.com/p/JFVbjiJUPtCLFALWzP13L2OqaX85u94IAI8J3-4SSnA/196x57.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/JFVbjiJUPtCLFALWzP13L2OqaX85u94IAI8J3-4SSnA/900x266.png",
+          "width": 900
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.pepboys.com/tires/brand/goodyear",
+        "description": "Goodyear",
+        "details": "For more than 100 years, Goodyear has been changing the way we move. Goodyear has a tire for everyone- a wide variety of tire features, tire prices, and sizes at Pep Boys. Goodyear tires use innovative technologies like DuPont™ Kevlar®, Evolving Traction Grooves and Run On Flat Technology to keep you safe on the road and help you get the most from your tires.",
+        "image": {
+          "alternateText": "Goodyear",
+          "height": 42,
+          "sourceUrl": "http://a.mktgcdn.com/p/eZAFXfe4pBoI8Jm0g4i5K4F6tZmksXV6e44MX8Qd5pQ/227x42.png",
+          "thumbnails": [
+            {
+              "height": 36,
+              "url": "http://a.mktgcdn.com/p/eZAFXfe4pBoI8Jm0g4i5K4F6tZmksXV6e44MX8Qd5pQ/196x36.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/eZAFXfe4pBoI8Jm0g4i5K4F6tZmksXV6e44MX8Qd5pQ/227x42.png",
+          "width": 227
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.pepboys.com/tires/brand/continental",
+        "description": "Continental",
+        "details": "Continental tires at Pep Boys deliver cutting-edge, high-performance products with uncompromising quality and service. As a market leader in technical and ecological solutions, Continental shows its devotion to driving safety and global climate protection by offering car tires, truck tires, and system components that support its cause for climate change.",
+        "image": {
+          "alternateText": "Continental",
+          "height": 118,
+          "sourceUrl": "http://a.mktgcdn.com/p/O-rRxJ69SN8RwX7lec0op4L9k3jm3wSaX53StvnzYoM/540x118.png",
+          "thumbnails": [
+            {
+              "height": 42,
+              "url": "http://a.mktgcdn.com/p/O-rRxJ69SN8RwX7lec0op4L9k3jm3wSaX53StvnzYoM/196x42.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/O-rRxJ69SN8RwX7lec0op4L9k3jm3wSaX53StvnzYoM/540x118.png",
+          "width": 540
+        }
+      }
+    ],
+    "c_category1Accessories2": [
+      "\u003ca href\u003d\"https://www.pepboys.com/accessories/floor_mats\"\u003eFloor Mats\u003c/a\u003e",
+      "\u003ca href\u003d\"https://www.pepboys.com/accessories/seat_covers\"\u003eSeat Cover\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yZLHS3\"\u003eSteering Wheel Covers\u003c/a\u003e",
+      "\u003ca href\u003d\"https://www.pepboys.com/accessories/truck_suv_accessories\"\u003eTruck Accessories\u003c/a\u003e",
+      "\u003ca href\u003d\"https://www.pepboys.com/accessories/car_covers/car/\"\u003eCar Covers\u003c/a\u003e",
+      "\u003ca href\u003d\"https://www.pepboys.com/accessories/car_covers/boat/\"\u003eBoat Covers\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2hBa1lX\"\u003eMotorcycle Covers\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2i2v053\"\u003eRoof Racks\u003c/a\u003e",
+      "\u003ca href\u003d\"https://www.pepboys.com/accessories/emergency_supplies\"\u003eEmergency Supplies\u003c/a\u003e"
+    ],
+    "c_category1BrakeParts": [
+      "\u003ca href\u003d\"http://bit.ly/2wOZbz6\"\u003eBrake Pads\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2wOZbz6\"\u003eBrake Rotors\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yfk9uQ\"\u003eBrake Caliper\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2wOi1qg\"\u003eBrake Kits\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yh4Bqy\"\u003eWheel Bearings\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2ybIyS8\"\u003eShocks and Struts\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2hBAuQs\"\u003eChassis Parts\u003c/a\u003e"
+    ],
+    "c_category1Brands": [
+      {
+        "clickthroughUrl": "https://www.pepboys.com/champion",
+        "description": "Champion Auto Parts",
+        "details": "Champion offers a wide range of aftermarket auto parts including spark plugs, car batteries, windshield wipers, automotive filters, and lighting. Champion has proven expertise in engineering and manufacturing OE components and subsystems for the world’s major automotive manufacturers. They understand the importance of OE fit and form replacement parts.",
+        "image": {
+          "alternateText": "Learn More",
+          "height": 106,
+          "sourceUrl": "http://a.mktgcdn.com/p/_zAMfx4rJaM7V7TxzO7gr7238LQnenO9PMzsyrDQu64/200x106.png",
+          "thumbnails": [
+            {
+              "height": 103,
+              "url": "http://a.mktgcdn.com/p/_zAMfx4rJaM7V7TxzO7gr7238LQnenO9PMzsyrDQu64/196x103.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_zAMfx4rJaM7V7TxzO7gr7238LQnenO9PMzsyrDQu64/200x106.png",
+          "width": 200
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.pepboys.com/moog",
+        "description": "Moog Suspension Parts",
+        "details": "Moog Suspension parts have a reputation as “The Problem Solver” that can be traced all the way back to 1937. That year, the company first produced a front-end replacement part recognized by mechanics as outperforming the factory original. As the years passed, MOOG continued to innovated and the company became known for its ability to consistently develop “problem-solving solutions.” Today, hundreds of innovations later, MOOG is recognized and respected throughout the automotive industry.",
+        "image": {
+          "alternateText": "Learn More",
+          "height": 35,
+          "sourceUrl": "http://a.mktgcdn.com/p/TA9rLF_B7WAIrdH8KvKQ48lKOUBEcexate1FAK5Ywjs/160x35.png",
+          "url": "http://a.mktgcdn.com/p/TA9rLF_B7WAIrdH8KvKQ48lKOUBEcexate1FAK5Ywjs/160x35.png",
+          "width": 160
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.pepboys.com/wagner_brakes",
+        "description": "Wagner Brakes",
+        "details": "Wagner is an industry leader and innovator in braking technology for passenger car, medium-duty, and commercial applications. Wagner sets industry standards with leading engineering expertise and a commitment to ensuring its parts deliver superior braking performance. Improve your stopping power with Wagner brake parts from Pep Boys.",
+        "image": {
+          "alternateText": "Learn More",
+          "height": 35,
+          "sourceUrl": "http://a.mktgcdn.com/p/3hzNNTfXZWicrdCX8MFmRrfZHF0fmUUgSqHvVba1K4Q/220x35.png",
+          "thumbnails": [
+            {
+              "height": 31,
+              "url": "http://a.mktgcdn.com/p/3hzNNTfXZWicrdCX8MFmRrfZHF0fmUUgSqHvVba1K4Q/196x31.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3hzNNTfXZWicrdCX8MFmRrfZHF0fmUUgSqHvVba1K4Q/220x35.png",
+          "width": 220
+        }
+      }
+    ],
+    "c_category1BusinessDescription": {
+      "details": "Pep Boys [[address.city]] offers Tires, Auto Service, Car Parts and Accessories at our more than 800 locations across the U.S. and Puerto Rico. At Pep Boys we make it easy to take care of your car in one place. We offer premium tire brands, aftermarket car parts and accessories and you can get your oil changed or schedule repair services online. Most Pep Boys stores are open seven days a week because we know emergencies can happen any time. Visit Pep Boys [[address.city]] located at [[address.line1]] to help keep your car running safely.",
+      "image": {
+        "alternateText": "Pep Boys Tires, Auto Service and Parts Stores are open seven days a week for your convenience",
+        "height": 265,
+        "sourceUrl": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/470x265.png",
+        "thumbnails": [
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/196x110.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/470x265.png",
+        "width": 470
+      }
+    },
+    "c_category1CarCare": [
+      "\u003ca href\u003d\"http://bit.ly/2zgFkdN\"\u003eMotor Oil\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yanwn5\"\u003eCar Wash\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2xyXCtG\"\u003eCar Wax\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2i4gg5O\"\u003eAntifreeze\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2kHYLJq\"\u003eWindshield Washer Fluid\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2kHDEaa\"\u003eCar Paint\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2gara9y\"\u003eOil Filters\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2hC3O9A\"\u003eBlue Def\u003c/a\u003e"
+    ],
+    "c_category1CarParts": [
+      "\u003ca href\u003d\"http://bit.ly/2gcNnUw\"\u003eAlternators\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2gd7Vwa\"\u003eStarters\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yG1Aky\"\u003eRadiator\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2i3U2Re\"\u003eCar Batteries\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2wOgMXY\"\u003eCar Battery Charger\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2kGcccN\"\u003eBattery Testers\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2gwzq0x\"\u003eMotorcycle Batteries\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yheBQ8\"\u003eLawn and Garden Batteries\u003c/a\u003e"
+    ],
+    "c_category1DIY": [
+      {
+        "clickthroughUrl": "https://www.pepboys.com/car_care_corner/car_care_basics/lifestyle/road_trip_tools?",
+        "description": "Summer Road Trip Survival Tips",
+        "details": "The summer road trip is a right of passage for all drivers. Although having a well-maintained vehicle reduces the odds of experiencing a breakdown, problems can occur unexpectedly.\nOur Suggestions:\n\t•\t First Aid Kit\n\t•\t Roadside Emergency Kit",
+        "image": {
+          "alternateText": "Summer Road Trip Tips",
+          "height": 150,
+          "thumbnails": [
+            {
+              "height": 62,
+              "url": "http://a.mktgcdn.com/p/gLUYW0UIw1cCgMymR5nBzP2TpAbSQ5Teaw-RyQia6k0/196x62.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gLUYW0UIw1cCgMymR5nBzP2TpAbSQ5Teaw-RyQia6k0/470x150.png",
+          "width": 470
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.pepboys.com/car_care_corner/do_it_yourself_guides/sparkplug_install_and_removal/",
+        "description": "DIY Spark Plug Installation",
+        "details": "Changing a spark plug requires some attention to detail. Let our experts help you voice some of the most common plug installation issues and how to avoid common pitfalls. \n\t•\t Avoid over tightening or improperly cleaning spark plugs\u2028\n\t•\t Always be sure there are no carbon or other contaminants in the cylinder heads prior to installation",
+        "image": {
+          "alternateText": "Install your Spark Plugs yourself",
+          "height": 150,
+          "thumbnails": [
+            {
+              "height": 62,
+              "url": "http://a.mktgcdn.com/p/p70byVAsMk3NIwisaQe18sf4y4o5VIw0D69ASetJ9JI/196x62.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/p70byVAsMk3NIwisaQe18sf4y4o5VIw0D69ASetJ9JI/470x150.png",
+          "width": 470
+        }
+      }
+    ],
+    "c_couponURL": "https://www.pepboys.com/sale_specials/",
+    "c_dIY": [
+      {
+        "clickthroughUrl": "https://www.pepboys.com/tires/treadsmart/tire_warning_signs",
+        "description": "Five Signs You Need New Tires",
+        "details": "Tires wear over time, so it’s important to be watchful for the signs that of wear so that you can replace them before something goes wrong. Your tires can\u0027t tell you they are wearing out, so you have to be aware of the other signs:  \n\t•\tCracks on the Sidewall\u2028\n\t•\tTake the Penny Test\u2028\n\t•\tLook for Treadwear Patterns\u2028\n\t•\tBulges and Blisters\u2028\n\t•\tToo Much Vibration",
+        "image": {
+          "alternateText": "Avoid flat tires, learn the tire warning signs",
+          "height": 150,
+          "thumbnails": [
+            {
+              "height": 62,
+              "url": "http://a.mktgcdn.com/p/gLUYW0UIw1cCgMymR5nBzP2TpAbSQ5Teaw-RyQia6k0/196x62.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gLUYW0UIw1cCgMymR5nBzP2TpAbSQ5Teaw-RyQia6k0/470x150.png",
+          "width": 470
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.pepboys.com/car_care_corner/car_care_basics/safety/brake_warning_signs/",
+        "description": "Signs of a Failing Brake System",
+        "details": "Your vehicle\u0027s brake system is made up of many parts, with one important purpose: to help you stop! It\u0027s important to pay attention to the signs that it might be time for a brake replacement. \n\t•\tOdd Sounds\u2028\n\t•\tWarning Light\u2028\n\t•\tOdd Smells",
+        "image": {
+          "alternateText": "Stop safely, learn your car\u0027s brake warning signs",
+          "height": 150,
+          "thumbnails": [
+            {
+              "height": 62,
+              "url": "http://a.mktgcdn.com/p/p70byVAsMk3NIwisaQe18sf4y4o5VIw0D69ASetJ9JI/196x62.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/p70byVAsMk3NIwisaQe18sf4y4o5VIw0D69ASetJ9JI/470x150.png",
+          "width": 470
+        }
+      }
+    ],
+    "c_dIYSectionTitle": "Diagnose Your Ride",
+    "c_eventsDefaultImage": {
+      "image": {
+        "height": 250,
+        "thumbnails": [
+          {
+            "height": 132,
+            "url": "http://a.mktgcdn.com/p/aUromnlI9lcSzpXXfkKjIz9QbnoT27gTHVmJ8T7yU8A/619x132.png",
+            "width": 619
+          },
+          {
+            "height": 128,
+            "url": "http://a.mktgcdn.com/p/aUromnlI9lcSzpXXfkKjIz9QbnoT27gTHVmJ8T7yU8A/600x128.png",
+            "width": 600
+          },
+          {
+            "height": 41,
+            "url": "http://a.mktgcdn.com/p/aUromnlI9lcSzpXXfkKjIz9QbnoT27gTHVmJ8T7yU8A/195x41.png",
+            "width": 195
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/aUromnlI9lcSzpXXfkKjIz9QbnoT27gTHVmJ8T7yU8A/1170x250.png",
+        "width": 1170
+      }
+    },
+    "c_heroImage": {
+      "image": {
+        "height": 295,
+        "thumbnails": [
+          {
+            "height": 152,
+            "url": "http://a.mktgcdn.com/p/vtEjOE_o0eyKrd4hwTi6V_Qvuq6JIDWmham9-TRkLqQ/619x152.png",
+            "width": 619
+          },
+          {
+            "height": 147,
+            "url": "http://a.mktgcdn.com/p/vtEjOE_o0eyKrd4hwTi6V_Qvuq6JIDWmham9-TRkLqQ/600x147.png",
+            "width": 600
+          },
+          {
+            "height": 48,
+            "url": "http://a.mktgcdn.com/p/vtEjOE_o0eyKrd4hwTi6V_Qvuq6JIDWmham9-TRkLqQ/196x48.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/vtEjOE_o0eyKrd4hwTi6V_Qvuq6JIDWmham9-TRkLqQ/1200x295.png",
+        "width": 1200
+      }
+    },
+    "c_nearbyImage": {
+      "image": {
+        "alternateText": "Visit a nearby Pep Boys Location for Tires and Service today",
+        "height": 210,
+        "sourceUrl": "http://a.mktgcdn.com/p/lJcuo-LskWAGklGilYGm6iVTRurk5Ryql0wi7gHC3yk/370x210.png",
+        "thumbnails": [
+          {
+            "height": 111,
+            "url": "http://a.mktgcdn.com/p/lJcuo-LskWAGklGilYGm6iVTRurk5Ryql0wi7gHC3yk/196x111.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/lJcuo-LskWAGklGilYGm6iVTRurk5Ryql0wi7gHC3yk/370x210.png",
+        "width": 370
+      }
+    },
+    "c_pagesBusinessDescription": {
+      "details": "Pep Boys [[address.city]] offers Tires, Auto Service, Car Parts and Accessories at our more than 800 locations across the U.S. and Puerto Rico. At Pep Boys we make it easy to take care of your car in one place. We offer premium tire brands, aftermarket car parts and accessories and you can get your oil changed or schedule repair services online. Most Pep Boys stores are open seven days a week because we know emergencies can happen anytime. Visit Pep Boys [[address.city]] located at [[address.line1]] to help keep your car running safely.",
+      "image": {
+        "alternateText": "Pep Boys Tires, Auto Service and Parts Stores are open seven days a week for your convenience",
+        "height": 265,
+        "sourceUrl": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/470x265.png",
+        "thumbnails": [
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/196x110.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/470x265.png",
+        "width": 470
+      }
+    },
+    "c_showInLocator": true,
+    "c_specialServices": [
+      "EXHAUST",
+      "CAR_AUDIO_INSTALLATION",
+      "STATE_INSPECTIONS"
+    ],
+    "c_storeAdURL": "https://www.pepboys.com/weeklyad",
+    "c_temp3_TEXT": "VIEW COUPONS",
+    "c_temp4_TEXT": "SIGN UP FOR EMAIL EXCLUSIVES",
+    "c_temp4_URL": "http://www.pepboys.com/email_signup/",
+    "c_tempCIRCULAR_1_TEXT": "VIEW YOUR LOCAL STORE AD",
+    "c_tempCIRCULAR_2_TEXT": "MAKE A SERVICE APPOINTMENT",
+    "c_tempDISPLAY_REVIEW": "1",
+    "c_tempIS_RETIRED": "N",
+    "c_tempTYPE": "P",
+    "c_towTruckURL": "https://www.pepboys.com/service/pep_boys_towing_service",
+    "yext/brands": [
+      "AC Delco",
+      "Actron",
+      "AllTrade",
+      "ArmorAll",
+      "Autolite",
+      "Bayco",
+      "BF Goodrich",
+      "Black \u0026 Decker",
+      "Black Magic",
+      "Bosch",
+      "Castrol",
+      "Champion",
+      "Chevron",
+      "Coleman",
+      "Continental",
+      "Cooper",
+      "CRC",
+      "Dayco",
+      "DeWalt",
+      "Eagle One",
+      "Fram",
+      "Goodyear",
+      "Gumout",
+      "Gunk",
+      "Hankook",
+      "Haynes",
+      "K\u0026N",
+      "Kawasaki",
+      "Lucas",
+      "Meguiars",
+      "Michelin",
+      "Mobil",
+      "Monroe",
+      "Mothers",
+      "NGK",
+      "OTC",
+      "Peak",
+      "Pennzoil",
+      "Philips",
+      "Powerbuilt",
+      "Purolator",
+      "Quaker State",
+      "RainX",
+      "Schumacher",
+      "Snap-on",
+      "STP",
+      "Surf City Garage",
+      "Turtle Wax",
+      "Valvoline",
+      "Walker"
+    ],
+    "yext/emails": [
+      "contactus@pepboys.com"
+    ],
+    "yext/facebookParentPageId": "197397381058",
+    "yext/facebookStoreId": "[[entityId]]",
+    "yext/logo": {
+      "image": {
+        "height": 750,
+        "thumbnails": [
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p/RAOBHS67LQqpmAipM-rdBy8gxR_Hd53lkosHVC0SPaA/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p/RAOBHS67LQqpmAipM-rdBy8gxR_Hd53lkosHVC0SPaA/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/RAOBHS67LQqpmAipM-rdBy8gxR_Hd53lkosHVC0SPaA/750x750.png",
+        "width": 750
+      }
+    },
+    "yext/reservationUrl": {
+      "displayUrl": "https://www.pepboys.com/appointment",
+      "preferDisplayUrl": false,
+      "url": "https://www.pepboys.com/appointment?store\u003d[[c_4DigitEntityID]]"
+    },
+    "yext/services": [
+      "Alignments",
+      "Alternators",
+      "Batteries",
+      "Brakes",
+      "Clutch Replacement",
+      "Engine Repair",
+      "Exhaust",
+      "Fluid Exchanges",
+      "Heating \u0026 Cooling",
+      "Manufacturer’s Scheduled Maintenance",
+      "Oil Changes",
+      "Seasonal Prep Packages",
+      "Starters",
+      "State Inspections (by location)",
+      "Steering and Suspension",
+      "Tires",
+      "Tune-Ups + FREE Services: Battery Installation",
+      "Battery Test",
+      "Windshield Wiper Replacement"
+    ],
+    "yext/twitterHandle": "pepboysauto",
+    "yext/websiteUrl": {
+      "displayUrl": "[[c_pagesURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_pagesURL]]"
+    }
+  }
+}

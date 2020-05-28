@@ -1,0 +1,408 @@
+{
+  "$id": "location",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "entityType": "yext/location",
+  "enabled": true,
+  "field": [
+    {
+      "id": "4DigitEntityID",
+      "required": false
+    },
+    {
+      "id": "aboveTheFolderBanner",
+      "required": false
+    },
+    {
+      "id": "additionalHoursStatus",
+      "required": false
+    },
+    {
+      "id": "appImage",
+      "required": false
+    },
+    {
+      "id": "appleBusinessName",
+      "required": false
+    },
+    {
+      "id": "appointmentURL",
+      "required": false
+    },
+    {
+      "id": "brands",
+      "required": false
+    },
+    {
+      "id": "careerCTAText1",
+      "required": false
+    },
+    {
+      "id": "careerCTAText2",
+      "required": false
+    },
+    {
+      "id": "careerCTAURL1",
+      "required": false
+    },
+    {
+      "id": "careerCTAURL2",
+      "required": false
+    },
+    {
+      "id": "careerSection",
+      "required": false
+    },
+    {
+      "id": "category1Accessories2",
+      "required": false
+    },
+    {
+      "id": "category1BrakeParts",
+      "required": false
+    },
+    {
+      "id": "category1Brands",
+      "required": false
+    },
+    {
+      "id": "category1BusinessDescription",
+      "required": false
+    },
+    {
+      "id": "category1CarCare",
+      "required": false
+    },
+    {
+      "id": "category1CarParts",
+      "required": false
+    },
+    {
+      "id": "category1DIY",
+      "required": false
+    },
+    {
+      "id": "category2Brands",
+      "required": false
+    },
+    {
+      "id": "category2CTAText",
+      "required": false
+    },
+    {
+      "id": "category2CTAURL",
+      "required": false
+    },
+    {
+      "id": "category2Description",
+      "required": false
+    },
+    {
+      "id": "category2Section1List",
+      "required": false
+    },
+    {
+      "id": "category2Section1Title",
+      "required": false
+    },
+    {
+      "id": "category2Section2List",
+      "required": false
+    },
+    {
+      "id": "category2Section2Title",
+      "required": false
+    },
+    {
+      "id": "category2Section3List",
+      "required": false
+    },
+    {
+      "id": "category2Section3Title",
+      "required": false
+    },
+    {
+      "id": "category2Section4List",
+      "required": false
+    },
+    {
+      "id": "category2Section4Title",
+      "required": false
+    },
+    {
+      "id": "category2TeamMemberEmail",
+      "required": false
+    },
+    {
+      "id": "category2TeamMemberName",
+      "required": false
+    },
+    {
+      "id": "category2TeamMemberTitle",
+      "required": false
+    },
+    {
+      "id": "category3Brands",
+      "required": false
+    },
+    {
+      "id": "category3Description",
+      "required": false
+    },
+    {
+      "id": "category3Section1List",
+      "required": false
+    },
+    {
+      "id": "category3Section1Title",
+      "required": false
+    },
+    {
+      "id": "category3Section2List",
+      "required": false
+    },
+    {
+      "id": "category3Section2Title",
+      "required": false
+    },
+    {
+      "id": "category3Section3List",
+      "required": false
+    },
+    {
+      "id": "category3Section3Title",
+      "required": false
+    },
+    {
+      "id": "category3Section4List",
+      "required": false
+    },
+    {
+      "id": "category3Section4Title",
+      "required": false
+    },
+    {
+      "id": "categoryType",
+      "required": false
+    },
+    {
+      "id": "temp3_TEXT",
+      "required": false
+    },
+    {
+      "id": "cMM_Email",
+      "required": false
+    },
+    {
+      "id": "couponURL",
+      "required": false
+    },
+    {
+      "id": "cTA3",
+      "required": false
+    },
+    {
+      "id": "distributionCenterName",
+      "required": false
+    },
+    {
+      "id": "dIY",
+      "required": false
+    },
+    {
+      "id": "dIYSectionTitle",
+      "required": false
+    },
+    {
+      "id": "eventsDefaultImage",
+      "required": false
+    },
+    {
+      "id": "exemptFromETL",
+      "required": false
+    },
+    {
+      "id": "geomodifier",
+      "required": false
+    },
+    {
+      "id": "gMBBusinessDescription",
+      "required": false
+    },
+    {
+      "id": "gMB_labels",
+      "required": false
+    },
+    {
+      "id": "heroImage",
+      "required": false
+    },
+    {
+      "id": "heroImageMobile",
+      "required": false
+    },
+    {
+      "id": "iCONS",
+      "required": false
+    },
+    {
+      "id": "locationPageH1",
+      "required": false
+    },
+    {
+      "id": "locatorFilter",
+      "required": false
+    },
+    {
+      "id": "metaDescription",
+      "required": false
+    },
+    {
+      "id": "metaTitle",
+      "required": false
+    },
+    {
+      "id": "nearbyImage",
+      "required": false
+    },
+    {
+      "id": "originalFolder",
+      "required": false
+    },
+    {
+      "id": "pageType",
+      "required": false
+    },
+    {
+      "id": "pagesBusinessDescription",
+      "required": false
+    },
+    {
+      "id": "pagesURL",
+      "required": false
+    },
+    {
+      "id": "pagesURLCategoryExpressParts2",
+      "required": false
+    },
+    {
+      "id": "pagesURLCategorySpeedShop",
+      "required": false
+    },
+    {
+      "id": "partsAndAccessoriesCategoryPage",
+      "required": false
+    },
+    {
+      "id": "redirectURL",
+      "required": false
+    },
+    {
+      "id": "partsAndAccessoriesHours",
+      "required": false
+    },
+    {
+      "id": "servicesSection1",
+      "required": false
+    },
+    {
+      "id": "servicesSection2",
+      "required": false
+    },
+    {
+      "id": "servicesSection3",
+      "required": false
+    },
+    {
+      "id": "servicesSection42",
+      "required": false
+    },
+    {
+      "id": "shopTiresURL",
+      "required": false
+    },
+    {
+      "id": "showInLocator",
+      "required": false
+    },
+    {
+      "id": "specialServices",
+      "required": false
+    },
+    {
+      "id": "storeAdURL",
+      "required": false
+    },
+    {
+      "id": "storeBrand",
+      "required": false
+    },
+    {
+      "id": "tempCIRCULAR_1_TEXT",
+      "required": false
+    },
+    {
+      "id": "tempCIRCULAR_2_TEXT",
+      "required": false
+    },
+    {
+      "id": "temp4_TEXT",
+      "required": false
+    },
+    {
+      "id": "temp4_URL",
+      "required": false
+    },
+    {
+      "id": "tempDISPLAY_REVIEW",
+      "required": false
+    },
+    {
+      "id": "tempDMA",
+      "required": false
+    },
+    {
+      "id": "tempIS_RETIRED",
+      "required": false
+    },
+    {
+      "id": "tempRetailSat",
+      "required": false
+    },
+    {
+      "id": "tempServiceSat",
+      "required": false
+    },
+    {
+      "id": "tempNAME",
+      "required": false
+    },
+    {
+      "id": "tempTYPE",
+      "required": false
+    },
+    {
+      "id": "tempADDRESS",
+      "required": false
+    },
+    {
+      "id": "tempRetailSun",
+      "required": false
+    },
+    {
+      "id": "tempServiceSun",
+      "required": false
+    },
+    {
+      "id": "tempRetailMonFri",
+      "required": false
+    },
+    {
+      "id": "tempServiceMonFri",
+      "required": false
+    },
+    {
+      "id": "towTruckURL",
+      "required": false
+    }
+  ]
+}

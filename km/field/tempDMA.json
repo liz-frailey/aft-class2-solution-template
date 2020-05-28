@@ -1,0 +1,15 @@
+{
+  "$id": "tempDMA",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp DMA",
+  "apiName": "c_tempDMA",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

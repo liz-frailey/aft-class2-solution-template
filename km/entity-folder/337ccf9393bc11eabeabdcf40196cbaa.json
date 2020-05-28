@@ -1,0 +1,6 @@
+{
+  "$id": "337ccf9393bc11eabeabdcf40196cbaa",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Just Brakes",
+  "parent": "yext/root"
+}

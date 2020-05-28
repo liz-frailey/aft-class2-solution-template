@@ -1,0 +1,6 @@
+{
+  "$id": "333eb5c193bc11eabeabdcf40196cbaa",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Precision Tune",
+  "parent": "yext/root"
+}

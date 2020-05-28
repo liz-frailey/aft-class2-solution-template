@@ -1,0 +1,15 @@
+{
+  "$id": "tempCIRCULAR_1_TEXT",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp CIRCULAR_1_TEXT",
+  "apiName": "c_tempCIRCULAR_1_TEXT",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

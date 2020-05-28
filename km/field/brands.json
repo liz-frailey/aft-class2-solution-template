@@ -1,0 +1,25 @@
+{
+  "$id": "brands",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Pep Boys Brands",
+  "apiName": "c_brands",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "typeId": "yext/image",
+      "maxLength": 100,
+      "type": {
+        "imageType": {
+          "minSize": {
+            "height": 0,
+            "width": 0
+          },
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "f8440cad94ae11ea897accc5e5152360",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "name": "Categories + Content - Precision Tune",
+  "externalId": "categoriesContentPrecisionTune",
+  "localeCode": "en",
+  "entityTypes": [
+    "yext/location"
+  ],
+  "content": {
+    "c_locatorFilter": [
+      "SERVICE"
+    ],
+    "c_pageType": "SERVICES_AND_PARTS",
+    "c_showInLocator": true,
+    "c_storeBrand": "PRECISION_TUNE",
+    "yext/closed": false,
+    "yext/description": "Precision Tune Auto Care is the fast, convenient and affordable solution to all of your car repair and routine vehicle maintenance needs. Our trained technicians help you keep your vehicle safe \u0026 reliable on the road!",
+    "yext/featuredMessage": {
+      "description": "Visit Precision Tune Auto Care in [[address.city]], [[address.region]].",
+      "url": "http://www.precisiontune.com/locations/fargo-nd"
+    },
+    "yext/logo": {
+      "image": {
+        "height": 302,
+        "thumbnails": [
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p/ZRZBvlnRsYIuEjzAMeXXNPGK2rD4UPvUHJwsepPQ_Ls/150x150.jpg",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p/ZRZBvlnRsYIuEjzAMeXXNPGK2rD4UPvUHJwsepPQ_Ls/94x94.jpg",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/ZRZBvlnRsYIuEjzAMeXXNPGK2rD4UPvUHJwsepPQ_Ls/302x302.jpg",
+        "width": 302
+      }
+    },
+    "yext/name": "Precision Tune Auto Care"
+  }
+}

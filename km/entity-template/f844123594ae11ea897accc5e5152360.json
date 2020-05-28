@@ -1,0 +1,341 @@
+{
+  "$id": "f844123594ae11ea897accc5e5152360",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "name": "Category Pages Content",
+  "externalId": "categoryPagesContent",
+  "localeCode": "en",
+  "entityTypes": [
+    "yext/location"
+  ],
+  "content": {
+    "c_category1Accessories2": [
+      "\u003ca href\u003d\"http://bit.ly/2xZPROf\"\u003eFloor Mats\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2LGNMZh\"\u003eSeat Cover\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2y4Maqs\"\u003eSteering Wheel Covers\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2l31vOL\"\u003eTruck Accessories\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2HGp88G\"\u003eCar Covers\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2y2OfTT\"\u003eBoat Covers\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2LGtWgM\"\u003eMotorcycle Covers\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2Jvm0Cz\"\u003eRoof Racks\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2JFKKUs\"\u003eEmergency Supplies\u003c/a\u003e"
+    ],
+    "c_category1BrakeParts": [
+      "\u003ca href\u003d\"http://bit.ly/2JtiLeO\"\u003eBrake Pads\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2LJ4nM9\"\u003eBrake Rotors\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2JKDBpq\"\u003eBrake Caliper\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2t0iIfh\"\u003eBrake Kits\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2t5PrjJ\"\u003eWheel Bearings\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2JyhkMo\"\u003eShocks and Struts\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2t0fEzV\"\u003eChassis Parts\u003c/a\u003e"
+    ],
+    "c_category1Brands": [
+      {
+        "clickthroughUrl": "https://www.pepboys.com/champion",
+        "description": "Champion Auto Parts",
+        "details": "Champion offers a wide range of aftermarket auto parts including spark plugs, car batteries, windshield wipers, automotive filters, and lighting. Champion has proven expertise in engineering and manufacturing OE components and subsystems for the world’s major automotive manufacturers. They understand the importance of OE fit and form replacement parts.",
+        "image": {
+          "alternateText": "Learn More",
+          "height": 103,
+          "url": "http://a.mktgcdn.com/p/ZDbWcueL8As0yhOXWp6lqYlSPoDFsRmOrAxZ-mjhJxg/196x103.png",
+          "width": 196
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.pepboys.com/moog",
+        "description": "Moog Suspension Parts",
+        "details": "Moog Suspension parts have a reputation as “The Problem Solver” that can be traced all the way back to 1937. That year, the company first produced a front-end replacement part recognized by mechanics as outperforming the factory original. As the years passed, MOOG continued to innovated and the company became known for its ability to consistently develop “problem-solving solutions.” Today, hundreds of innovations later, MOOG is recognized and respected throughout the automotive industry.",
+        "image": {
+          "alternateText": "Learn More",
+          "height": 35,
+          "sourceUrl": "http://a.mktgcdn.com/p/TA9rLF_B7WAIrdH8KvKQ48lKOUBEcexate1FAK5Ywjs/160x35.png",
+          "url": "http://a.mktgcdn.com/p/TA9rLF_B7WAIrdH8KvKQ48lKOUBEcexate1FAK5Ywjs/160x35.png",
+          "width": 160
+        }
+      },
+      {
+        "clickthroughUrl": "http://www.pepboys.com/wagner-brakes",
+        "description": "Wagner Brakes",
+        "details": "Wagner is an industry leader and innovator in braking technology for passenger car, medium-duty, and commercial applications. Wagner sets industry standards with leading engineering expertise and a commitment to ensuring its parts deliver superior braking performance. Improve your stopping power with Wagner brake parts from Pep Boys.",
+        "image": {
+          "alternateText": "Learn More",
+          "height": 35,
+          "sourceUrl": "http://a.mktgcdn.com/p/3hzNNTfXZWicrdCX8MFmRrfZHF0fmUUgSqHvVba1K4Q/220x35.png",
+          "thumbnails": [
+            {
+              "height": 31,
+              "url": "http://a.mktgcdn.com/p/3hzNNTfXZWicrdCX8MFmRrfZHF0fmUUgSqHvVba1K4Q/196x31.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3hzNNTfXZWicrdCX8MFmRrfZHF0fmUUgSqHvVba1K4Q/220x35.png",
+          "width": 220
+        }
+      }
+    ],
+    "c_category1BusinessDescription": {
+      "details": "Pep Boys [[address.city]] offers Tires, Auto Service, Car Parts and Accessories at our more than 800 locations across the U.S. and Puerto Rico. At Pep Boys we make it easy to take care of your car in one place. We offer premium tire brands, aftermarket car parts and accessories and you can get your oil changed or schedule repair services online. Most Pep Boys stores are open seven days a week because we know emergencies can happen any time. Visit Pep Boys [[address.city]] located at [[address.line1]] to help keep your car running safely.",
+      "image": {
+        "alternateText": "Pep Boys Tires, Auto Service and Parts Stores are open seven days a week for your convenience",
+        "height": 265,
+        "sourceUrl": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/470x265.png",
+        "thumbnails": [
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/196x110.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/Za8ydKYTg0G3sEUw6Txb5ByrwVeb-PluZ9Ymff3Rp-A/470x265.png",
+        "width": 470
+      }
+    },
+    "c_category1CarCare": [
+      "\u003ca href\u003d\"http://bit.ly/2zgFkdN\"\u003eMotor Oil\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yanwn5\"\u003eCar Wash\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2xyXCtG\"\u003eCar Wax\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2i4gg5O\"\u003eAntifreeze\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2kHYLJq\"\u003eWindshield Washer Fluid\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2kHDEaa\"\u003eCar Paint\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2gara9y\"\u003eOil Filters\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2hC3O9A\"\u003eBlue Def\u003c/a\u003e"
+    ],
+    "c_category1CarParts": [
+      "\u003ca href\u003d\"http://bit.ly/2gcNnUw\"\u003eAlternators\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2gd7Vwa\"\u003eStarters\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yG1Aky\"\u003eRadiator\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2i3U2Re\"\u003eCar Batteries\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2wOgMXY\"\u003eCar Battery Charger\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2kGcccN\"\u003eBattery Testers\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2gwzq0x\"\u003eMotorcycle Batteries\u003c/a\u003e",
+      "\u003ca href\u003d\"http://bit.ly/2yheBQ8\"\u003eLawn and Garden Batteries\u003c/a\u003e"
+    ],
+    "c_category1DIY": [
+      {
+        "clickthroughUrl": "http://www.pepboys.com/auto-care/lifestyle/21-places-to-take-your-car",
+        "description": "Summer Road Trip Survival Tips",
+        "details": "The summer road trip is a right of passage for all drivers. Although having a well-maintained vehicle reduces the odds of experiencing a breakdown, problems can occur unexpectedly.\nOur Suggestions:\n\t•\t First Aid Kit\n\t•\t Roadside Emergency Kit",
+        "image": {
+          "alternateText": "Summer Road Trip Tips",
+          "height": 150,
+          "sourceUrl": "http://a.mktgcdn.com/p/gLUYW0UIw1cCgMymR5nBzP2TpAbSQ5Teaw-RyQia6k0/470x150.png",
+          "thumbnails": [
+            {
+              "height": 62,
+              "url": "http://a.mktgcdn.com/p/gLUYW0UIw1cCgMymR5nBzP2TpAbSQ5Teaw-RyQia6k0/196x62.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gLUYW0UIw1cCgMymR5nBzP2TpAbSQ5Teaw-RyQia6k0/470x150.png",
+          "width": 470
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.pepboys.com/auto-care/diy/guides/spark-plugs-replacement",
+        "description": "DIY Spark Plug Installation",
+        "details": "Changing a spark plug requires some attention to detail. Let our experts help you voice some of the most common plug installation issues and how to avoid common pitfalls. \n\t•\t Avoid over tightening or improperly cleaning spark plugs\u2028\n\t•\t Always be sure there are no carbon or other contaminants in the cylinder heads prior to installation",
+        "image": {
+          "alternateText": "Install your Spark Plugs yourself",
+          "height": 150,
+          "sourceUrl": "http://a.mktgcdn.com/p/p70byVAsMk3NIwisaQe18sf4y4o5VIw0D69ASetJ9JI/470x150.png",
+          "thumbnails": [
+            {
+              "height": 62,
+              "url": "http://a.mktgcdn.com/p/p70byVAsMk3NIwisaQe18sf4y4o5VIw0D69ASetJ9JI/196x62.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/p70byVAsMk3NIwisaQe18sf4y4o5VIw0D69ASetJ9JI/470x150.png",
+          "width": 470
+        }
+      }
+    ],
+    "c_category2Brands": [
+      {
+        "description": "Purolator",
+        "details": "Purolator filters are designed to meet original factory performance for your vehicle. We offer Purolator oil filters, cabin air filters and air filters for your car or truck. These filters are designed to provide protection that helps improve performance and fuel efficiency.",
+        "image": {
+          "height": 35,
+          "thumbnails": [
+            {
+              "height": 31,
+              "url": "http://a.mktgcdn.com/p/R4KMkh-9m7bRb96MlbCjvirw6ZTfHrjHpOTyJObX_Hc/196x31.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/R4KMkh-9m7bRb96MlbCjvirw6ZTfHrjHpOTyJObX_Hc/220x35.png",
+          "width": 220
+        }
+      },
+      {
+        "description": "Wagner",
+        "details": "Wagner sets industry standards in brake technologies for passenger car, medium-duty, and commercial applications. Wagner brake parts deliver superior braking performance and offer all the components necessary for a complete brake repair.",
+        "image": {
+          "height": 35,
+          "thumbnails": [
+            {
+              "height": 31,
+              "url": "http://a.mktgcdn.com/p/wnYdsYAQ7Frjs_mp_a8ju1-sp2Ugv9VTLDD7zOvQPM4/196x31.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/wnYdsYAQ7Frjs_mp_a8ju1-sp2Ugv9VTLDD7zOvQPM4/220x35.png",
+          "width": 220
+        }
+      },
+      {
+        "description": "Dorman",
+        "details": "Dorman is a leading supplier of original equipment dealer \"exclusive\" automotive and heavy duty replacement parts. Its selection includes brake parts, automotive hardware, repair kits and more.",
+        "image": {
+          "height": 35,
+          "thumbnails": [
+            {
+              "height": 31,
+              "url": "http://a.mktgcdn.com/p/QtvEktNbB5f6VviXQotgsTA_flqdbRbxCOz9fWU45Iw/196x31.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QtvEktNbB5f6VviXQotgsTA_flqdbRbxCOz9fWU45Iw/220x35.jpg",
+          "width": 220
+        }
+      }
+    ],
+    "c_category2CTAText": "Current Promotions",
+    "c_category2CTAURL": "https://www.pepboys.com/pepexpress/promotions",
+    "c_category2Description": {
+      "clickthroughUrl": "http://www.pepexpress.com",
+      "description": "www.pepexpress.com",
+      "details": "Pep Express [[c_geomodifier]] is your trusted name for brand-name parts, tires, equipment professional shop supplies, commodities and accessories. What truly sets Pep Express apart? Our people. Dedicated, reliable and professional, our ASE-certified parts experts strive to understand your business and earn your trust as a true parts partner. We\u0027ve got you covered with auto parts delivery available Monday through Saturday and are open Sundays for parts pickup.",
+      "image": {
+        "alternateText": "Pep Express Commercial Parts stores are open seven days a week for your convenience",
+        "height": 265,
+        "sourceUrl": "http://a.mktgcdn.com/p/eotHuFPgrp-plhNjVe-waQFVy38f_EAIVg_JdSKyz_k/470x265.jpg",
+        "thumbnails": [
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p/eotHuFPgrp-plhNjVe-waQFVy38f_EAIVg_JdSKyz_k/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/eotHuFPgrp-plhNjVe-waQFVy38f_EAIVg_JdSKyz_k/470x265.jpg",
+        "width": 470
+      }
+    },
+    "c_category2Section1List": [
+      "Brake Pads/Brake Shoes",
+      "Chassis Parts",
+      "Spark Plugs",
+      "Car Batteries",
+      "Brake Rotors/Drums"
+    ],
+    "c_category2Section1Title": "Auto Parts",
+    "c_category2Section2List": [
+      "Motor Oil",
+      "Oil Filters",
+      "Antifreeze"
+    ],
+    "c_category2Section2Title": "Car Care Supplies",
+    "c_category2Section3List": [
+      "Perfromance Tires",
+      "Truck Tires",
+      "Passenger Tires"
+    ],
+    "c_category2Section3Title": "Tires",
+    "c_category2TeamMemberTitle": "Commercial Account Manager",
+    "c_category3Brands": [
+      {
+        "clickthroughUrl": "http://www.pepboys.com/speedshop-performance-parts/edelbrock",
+        "description": "Edelbrock",
+        "details": "Edelbrock manufactures every carburetor in the USA and specifically designs and tunes it by Edelbrock engineers to provide the widest overall torque range. It offers unmatched performance, especially when combined with other Edelbrock performance parts.",
+        "image": {
+          "height": 35,
+          "thumbnails": [
+            {
+              "height": 31,
+              "url": "http://a.mktgcdn.com/p/wTB7QBAJGXyLt9Omzy_Rk9DUYd32W1zTt-nacRkognU/196x31.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/wTB7QBAJGXyLt9Omzy_Rk9DUYd32W1zTt-nacRkognU/220x35.png",
+          "width": 220
+        }
+      },
+      {
+        "clickthroughUrl": "http://www.pepboys.com/speedshop-performance-parts/proform",
+        "description": "Proform",
+        "details": "Proform parts engineers and manufactures creative products from intelligent concepts. They strive to provide performance enthusiasts, gearheads, DIYers with innovation, quality and affordability in all their products- giving the customer the maximum value.",
+        "image": {
+          "height": 35,
+          "thumbnails": [
+            {
+              "height": 31,
+              "url": "http://a.mktgcdn.com/p/vFxZ7UZiOStYQZdbU207C3ne79ar1LBVrK7_MGOydbY/196x31.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vFxZ7UZiOStYQZdbU207C3ne79ar1LBVrK7_MGOydbY/220x35.png",
+          "width": 220
+        }
+      },
+      {
+        "clickthroughUrl": "http://www.pepboys.com/speedshop-performance-parts/holley",
+        "description": "Holley",
+        "details": "Holley has been the undisputed leader in fuel systems for more than 100 years. Holley EFI is dominating the performance world as well as its products for GM\u0027s LS engine. As a single solution or partnered with products from other Holley companies, Holley products give you the edge you need over the competition.",
+        "image": {
+          "height": 35,
+          "thumbnails": [
+            {
+              "height": 31,
+              "url": "http://a.mktgcdn.com/p/gJWHI5EfIom9OYrlQwPKdWDz3zLhp6SVaU4hDBpOiqU/196x31.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gJWHI5EfIom9OYrlQwPKdWDz3zLhp6SVaU4hDBpOiqU/220x35.png",
+          "width": 220
+        }
+      }
+    ],
+    "c_category3Description": {
+      "clickthroughUrl": "https://www.pepboys.com/about_pep_boys/specialty-stores/speedshop/",
+      "description": "Speed Shop Performance",
+      "details": "The [[c_geomodifier]] Speed Shop is the place for performance! It offers a wide array of parts for the auto enthusiast who understands what you drive is an extension of who you are. Visit the [[c_geomodifier]] Speed Shop to talk shop and browse our selection of high performance auto parts from expert brands including Edelbroch, K\u0026N, ARP, Mr. Gasket and more.",
+      "image": {
+        "alternateText": "Pep Boys Speed Shops are your destination for high performance auto parts.",
+        "height": 265,
+        "sourceUrl": "http://a.mktgcdn.com/p/lTDpYCbT1wfVg6cGqgZXPmS-EpJNVZcAkRzYev0rLEE/470x265.jpg",
+        "thumbnails": [
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p/lTDpYCbT1wfVg6cGqgZXPmS-EpJNVZcAkRzYev0rLEE/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/lTDpYCbT1wfVg6cGqgZXPmS-EpJNVZcAkRzYev0rLEE/470x265.jpg",
+        "width": 470
+      }
+    },
+    "c_category3Section1List": [
+      "Performance Exhaust",
+      "Air and Fuel Delivery",
+      "Suspension",
+      "Filters",
+      "Brake Pad \u0026 Rotor Kits",
+      "Caliper Covers"
+    ],
+    "c_category3Section1Title": "Performance Parts",
+    "c_category3Section2List": [
+      "Engine Dress Up",
+      "Truck \u0026 SUV Accessories",
+      "Apparel",
+      "Safety Equipment",
+      "Heat Suppression"
+    ],
+    "c_category3Section2Title": "Performance Accessories",
+    "c_category3Section3List": [
+      "Turbochargers",
+      "Superchargers",
+      "Nitrous Oxide",
+      "Chemicals"
+    ],
+    "c_category3Section3Title": "Performance Boosters"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "tempIS_RETIRED",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp IS_RETIRED",
+  "apiName": "c_tempIS_RETIRED",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

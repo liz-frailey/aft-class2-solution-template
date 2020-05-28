@@ -1,0 +1,16 @@
+{
+  "$id": "gMBBusinessDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "GMB Business Description",
+  "apiName": "c_gMBBusinessDescription",
+  "description": "Business description specifically for GMB",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 4000
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

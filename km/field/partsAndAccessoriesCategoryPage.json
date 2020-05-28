@@ -1,0 +1,13 @@
+{
+  "$id": "partsAndAccessoriesCategoryPage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Parts and Accessories Category Page",
+  "apiName": "c_partsAndAccessoriesCategoryPage",
+  "description": "Field determines which locations have Parts \u0026 Accessories category pages (used in the advanced filter for those category pages).",
+  "typeId": "yext/boolean",
+  "type": {
+    "booleanType": {}
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

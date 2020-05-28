@@ -1,0 +1,15 @@
+{
+  "$id": "category2CTAURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Category2 - CTA URL",
+  "apiName": "c_category2CTAURL",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

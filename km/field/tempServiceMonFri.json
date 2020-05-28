@@ -1,0 +1,15 @@
+{
+  "$id": "tempServiceMonFri",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp Service Mon-Fri",
+  "apiName": "c_tempServiceMonFri",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

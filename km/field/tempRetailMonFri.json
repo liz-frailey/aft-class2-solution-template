@@ -1,0 +1,15 @@
+{
+  "$id": "tempRetailMonFri",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp Retail Mon-Fri",
+  "apiName": "c_tempRetailMonFri",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "4DigitEntityID",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "4-Digit Entity ID",
+  "apiName": "c_4DigitEntityID",
+  "description": "4-digit version of the Entity ID field.\n\nYext Entity IDs must be 5 digits for a Pages reviews widget, but 4 digit entity IDs are necessary for tracking tags and the standard length for Hybris (Pep Boys system)",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "minLength": 4,
+      "maxLength": 4
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

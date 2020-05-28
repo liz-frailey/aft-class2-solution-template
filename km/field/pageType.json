@@ -1,0 +1,23 @@
+{
+  "$id": "pageType",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Page Type",
+  "apiName": "c_pageType",
+  "typeId": "yext/option",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Services and Parts",
+          "textValue": "SERVICES_AND_PARTS"
+        },
+        {
+          "displayName": "Retail Only",
+          "textValue": "RETAIL_ONLY"
+        }
+      ]
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

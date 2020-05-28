@@ -1,0 +1,21 @@
+{
+  "$id": "servicesSection2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Services Section 2",
+  "apiName": "c_servicesSection2",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "maxLength": 1000,
+      "type": {
+        "stringType": {
+          "maxLength": 100,
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

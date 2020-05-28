@@ -1,0 +1,15 @@
+{
+  "$id": "geomodifier",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Geomodifier",
+  "apiName": "c_geomodifier",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "towTruckURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Tow Truck URL",
+  "apiName": "c_towTruckURL",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}
