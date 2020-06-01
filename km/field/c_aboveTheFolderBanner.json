@@ -1,0 +1,15 @@
+{
+  "$id": "c_aboveTheFolderBanner",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Powers the red banner that appears at the top of the page under the header. Text only banner.",
+  "displayName": "Above The Folder Banner",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

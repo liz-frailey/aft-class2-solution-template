@@ -1,407 +1,407 @@
 {
   "$id": "location",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/location",
   "enabled": true,
+  "entityType": "yext/location",
   "field": [
     {
-      "id": "4DigitEntityID",
+      "id": "c_4DigitEntityID",
       "required": false
     },
     {
-      "id": "aboveTheFolderBanner",
+      "id": "c_aboveTheFolderBanner",
       "required": false
     },
     {
-      "id": "additionalHoursStatus",
+      "id": "c_additionalHoursStatus",
       "required": false
     },
     {
-      "id": "appImage",
+      "id": "c_appImage",
       "required": false
     },
     {
-      "id": "appleBusinessName",
+      "id": "c_appleBusinessName",
       "required": false
     },
     {
-      "id": "appointmentURL",
+      "id": "c_appointmentURL",
       "required": false
     },
     {
-      "id": "brands",
+      "id": "c_brands",
       "required": false
     },
     {
-      "id": "careerCTAText1",
+      "id": "c_careerCTAText1",
       "required": false
     },
     {
-      "id": "careerCTAText2",
+      "id": "c_careerCTAText2",
       "required": false
     },
     {
-      "id": "careerCTAURL1",
+      "id": "c_careerCTAURL1",
       "required": false
     },
     {
-      "id": "careerCTAURL2",
+      "id": "c_careerCTAURL2",
       "required": false
     },
     {
-      "id": "careerSection",
+      "id": "c_careerSection",
       "required": false
     },
     {
-      "id": "category1Accessories2",
+      "id": "c_category1Accessories2",
       "required": false
     },
     {
-      "id": "category1BrakeParts",
+      "id": "c_category1BrakeParts",
       "required": false
     },
     {
-      "id": "category1Brands",
+      "id": "c_category1Brands",
       "required": false
     },
     {
-      "id": "category1BusinessDescription",
+      "id": "c_category1BusinessDescription",
       "required": false
     },
     {
-      "id": "category1CarCare",
+      "id": "c_category1CarCare",
       "required": false
     },
     {
-      "id": "category1CarParts",
+      "id": "c_category1CarParts",
       "required": false
     },
     {
-      "id": "category1DIY",
+      "id": "c_category1DIY",
       "required": false
     },
     {
-      "id": "category2Brands",
+      "id": "c_category2Brands",
       "required": false
     },
     {
-      "id": "category2CTAText",
+      "id": "c_category2CTAText",
       "required": false
     },
     {
-      "id": "category2CTAURL",
+      "id": "c_category2CTAURL",
       "required": false
     },
     {
-      "id": "category2Description",
+      "id": "c_category2Description",
       "required": false
     },
     {
-      "id": "category2Section1List",
+      "id": "c_category2Section1List",
       "required": false
     },
     {
-      "id": "category2Section1Title",
+      "id": "c_category2Section1Title",
       "required": false
     },
     {
-      "id": "category2Section2List",
+      "id": "c_category2Section2List",
       "required": false
     },
     {
-      "id": "category2Section2Title",
+      "id": "c_category2Section2Title",
       "required": false
     },
     {
-      "id": "category2Section3List",
+      "id": "c_category2Section3List",
       "required": false
     },
     {
-      "id": "category2Section3Title",
+      "id": "c_category2Section3Title",
       "required": false
     },
     {
-      "id": "category2Section4List",
+      "id": "c_category2Section4List",
       "required": false
     },
     {
-      "id": "category2Section4Title",
+      "id": "c_category2Section4Title",
       "required": false
     },
     {
-      "id": "category2TeamMemberEmail",
+      "id": "c_category2TeamMemberEmail",
       "required": false
     },
     {
-      "id": "category2TeamMemberName",
+      "id": "c_category2TeamMemberName",
       "required": false
     },
     {
-      "id": "category2TeamMemberTitle",
+      "id": "c_category2TeamMemberTitle",
       "required": false
     },
     {
-      "id": "category3Brands",
+      "id": "c_category3Brands",
       "required": false
     },
     {
-      "id": "category3Description",
+      "id": "c_category3Description",
       "required": false
     },
     {
-      "id": "category3Section1List",
+      "id": "c_category3Section1List",
       "required": false
     },
     {
-      "id": "category3Section1Title",
+      "id": "c_category3Section1Title",
       "required": false
     },
     {
-      "id": "category3Section2List",
+      "id": "c_category3Section2List",
       "required": false
     },
     {
-      "id": "category3Section2Title",
+      "id": "c_category3Section2Title",
       "required": false
     },
     {
-      "id": "category3Section3List",
+      "id": "c_category3Section3List",
       "required": false
     },
     {
-      "id": "category3Section3Title",
+      "id": "c_category3Section3Title",
       "required": false
     },
     {
-      "id": "category3Section4List",
+      "id": "c_category3Section4List",
       "required": false
     },
     {
-      "id": "category3Section4Title",
+      "id": "c_category3Section4Title",
       "required": false
     },
     {
-      "id": "categoryType",
+      "id": "c_categoryType",
       "required": false
     },
     {
-      "id": "temp3_TEXT",
+      "id": "c_temp3_TEXT",
       "required": false
     },
     {
-      "id": "cMM_Email",
+      "id": "c_cMM_Email",
       "required": false
     },
     {
-      "id": "couponURL",
+      "id": "c_couponURL",
       "required": false
     },
     {
-      "id": "cTA3",
+      "id": "c_cTA3",
       "required": false
     },
     {
-      "id": "distributionCenterName",
+      "id": "c_distributionCenterName",
       "required": false
     },
     {
-      "id": "dIY",
+      "id": "c_dIY",
       "required": false
     },
     {
-      "id": "dIYSectionTitle",
+      "id": "c_dIYSectionTitle",
       "required": false
     },
     {
-      "id": "eventsDefaultImage",
+      "id": "c_eventsDefaultImage",
       "required": false
     },
     {
-      "id": "exemptFromETL",
+      "id": "c_exemptFromETL",
       "required": false
     },
     {
-      "id": "geomodifier",
+      "id": "c_geomodifier",
       "required": false
     },
     {
-      "id": "gMBBusinessDescription",
+      "id": "c_gMBBusinessDescription",
       "required": false
     },
     {
-      "id": "gMB_labels",
+      "id": "c_gMB_labels",
       "required": false
     },
     {
-      "id": "heroImage",
+      "id": "c_heroImage",
       "required": false
     },
     {
-      "id": "heroImageMobile",
+      "id": "c_heroImageMobile",
       "required": false
     },
     {
-      "id": "iCONS",
+      "id": "c_iCONS",
       "required": false
     },
     {
-      "id": "locationPageH1",
+      "id": "c_locationPageH1",
       "required": false
     },
     {
-      "id": "locatorFilter",
+      "id": "c_locatorFilter",
       "required": false
     },
     {
-      "id": "metaDescription",
+      "id": "c_metaDescription",
       "required": false
     },
     {
-      "id": "metaTitle",
+      "id": "c_metaTitle",
       "required": false
     },
     {
-      "id": "nearbyImage",
+      "id": "c_nearbyImage",
       "required": false
     },
     {
-      "id": "originalFolder",
+      "id": "c_originalFolder",
       "required": false
     },
     {
-      "id": "pageType",
+      "id": "c_pageType",
       "required": false
     },
     {
-      "id": "pagesBusinessDescription",
+      "id": "c_pagesBusinessDescription",
       "required": false
     },
     {
-      "id": "pagesURL",
+      "id": "c_pagesURL",
       "required": false
     },
     {
-      "id": "pagesURLCategoryExpressParts2",
+      "id": "c_pagesURLCategoryExpressParts2",
       "required": false
     },
     {
-      "id": "pagesURLCategorySpeedShop",
+      "id": "c_pagesURLCategorySpeedShop",
       "required": false
     },
     {
-      "id": "partsAndAccessoriesCategoryPage",
+      "id": "c_partsAndAccessoriesCategoryPage",
       "required": false
     },
     {
-      "id": "redirectURL",
+      "id": "c_redirectURL",
       "required": false
     },
     {
-      "id": "partsAndAccessoriesHours",
+      "id": "c_partsAndAccessoriesHours",
       "required": false
     },
     {
-      "id": "servicesSection1",
+      "id": "c_servicesSection1",
       "required": false
     },
     {
-      "id": "servicesSection2",
+      "id": "c_servicesSection2",
       "required": false
     },
     {
-      "id": "servicesSection3",
+      "id": "c_servicesSection3",
       "required": false
     },
     {
-      "id": "servicesSection42",
+      "id": "c_servicesSection42",
       "required": false
     },
     {
-      "id": "shopTiresURL",
+      "id": "c_shopTiresURL",
       "required": false
     },
     {
-      "id": "showInLocator",
+      "id": "c_showInLocator",
       "required": false
     },
     {
-      "id": "specialServices",
+      "id": "c_specialServices",
       "required": false
     },
     {
-      "id": "storeAdURL",
+      "id": "c_storeAdURL",
       "required": false
     },
     {
-      "id": "storeBrand",
+      "id": "c_storeBrand",
       "required": false
     },
     {
-      "id": "tempCIRCULAR_1_TEXT",
+      "id": "c_tempCIRCULAR_1_TEXT",
       "required": false
     },
     {
-      "id": "tempCIRCULAR_2_TEXT",
+      "id": "c_tempCIRCULAR_2_TEXT",
       "required": false
     },
     {
-      "id": "temp4_TEXT",
+      "id": "c_temp4_TEXT",
       "required": false
     },
     {
-      "id": "temp4_URL",
+      "id": "c_temp4_URL",
       "required": false
     },
     {
-      "id": "tempDISPLAY_REVIEW",
+      "id": "c_tempDISPLAY_REVIEW",
       "required": false
     },
     {
-      "id": "tempDMA",
+      "id": "c_tempDMA",
       "required": false
     },
     {
-      "id": "tempIS_RETIRED",
+      "id": "c_tempIS_RETIRED",
       "required": false
     },
     {
-      "id": "tempRetailSat",
+      "id": "c_tempRetailSat",
       "required": false
     },
     {
-      "id": "tempServiceSat",
+      "id": "c_tempServiceSat",
       "required": false
     },
     {
-      "id": "tempNAME",
+      "id": "c_tempNAME",
       "required": false
     },
     {
-      "id": "tempTYPE",
+      "id": "c_tempTYPE",
       "required": false
     },
     {
-      "id": "tempADDRESS",
+      "id": "c_tempADDRESS",
       "required": false
     },
     {
-      "id": "tempRetailSun",
+      "id": "c_tempRetailSun",
       "required": false
     },
     {
-      "id": "tempServiceSun",
+      "id": "c_tempServiceSun",
       "required": false
     },
     {
-      "id": "tempRetailMonFri",
+      "id": "c_tempRetailMonFri",
       "required": false
     },
     {
-      "id": "tempServiceMonFri",
+      "id": "c_tempServiceMonFri",
       "required": false
     },
     {
-      "id": "towTruckURL",
+      "id": "c_towTruckURL",
       "required": false
     }
   ]

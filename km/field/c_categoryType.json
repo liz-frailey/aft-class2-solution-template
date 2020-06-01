@@ -1,0 +1,14 @@
+{
+  "$id": "c_categoryType",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Category Type",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,19 +1,19 @@
 {
   "$id": "hotel",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/hotel",
   "enabled": false,
+  "entityType": "yext/hotel",
   "field": [
     {
-      "id": "additionalHoursStatus",
+      "id": "c_additionalHoursStatus",
       "required": false
     },
     {
-      "id": "metaTitle",
+      "id": "c_metaTitle",
       "required": false
     },
     {
-      "id": "partsAndAccessoriesCategoryPage",
+      "id": "c_partsAndAccessoriesCategoryPage",
       "required": false
     }
   ]

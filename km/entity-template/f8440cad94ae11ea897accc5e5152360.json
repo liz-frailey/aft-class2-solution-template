@@ -1,12 +1,6 @@
 {
   "$id": "f8440cad94ae11ea897accc5e5152360",
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
-  "name": "Categories + Content - Precision Tune",
-  "externalId": "categoriesContentPrecisionTune",
-  "localeCode": "en",
-  "entityTypes": [
-    "yext/location"
-  ],
   "content": {
     "c_locatorFilter": [
       "SERVICE"
@@ -40,5 +34,11 @@
       }
     },
     "yext/name": "Precision Tune Auto Care"
-  }
+  },
+  "entityTypes": [
+    "yext/location"
+  ],
+  "externalId": "categoriesContentPrecisionTune",
+  "localeCode": "en",
+  "name": "Categories + Content - Precision Tune"
 }

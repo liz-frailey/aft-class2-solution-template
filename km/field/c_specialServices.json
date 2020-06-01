@@ -1,0 +1,32 @@
+{
+  "$id": "c_specialServices",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Special Services",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "maxLength": 50,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Exhaust",
+              "textValue": "EXHAUST"
+            },
+            {
+              "displayName": "Car Audio Installation",
+              "textValue": "CAR_AUDIO_INSTALLATION"
+            },
+            {
+              "displayName": "State Inspections",
+              "textValue": "STATE_INSPECTIONS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

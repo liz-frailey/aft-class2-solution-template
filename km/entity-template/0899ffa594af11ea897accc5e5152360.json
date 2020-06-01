@@ -1,11 +1,6 @@
 {
   "$id": "0899ffa594af11ea897accc5e5152360",
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
-  "name": "Service Tire Center",
-  "externalId": "serviceTireCenter",
-  "entityTypes": [
-    "yext/location"
-  ],
   "content": {
     "c_categoryType": "Auto Service \u0026 Tire (SI)",
     "c_gMBBusinessDescription": "Pep Boys service location offering auto repair, maintenance, and brakes services. With everything your car, truck or SUV needs from oil changes to new tires and suspension. Auto repair services are available with ASE certified technicians. Tow-to-Pep service is available. For appointment scheduling, go to pepboys.com",
@@ -18,5 +13,10 @@
     "c_towTruckURL": "https://www.pepboys.com/towing-service",
     "yext/description": "Pep Boys service location offering auto repair, maintenance, and brakes services. With everything your car, truck or SUV needs from oil changes to new tires and suspension. Auto repair services are available with ASE certified technicians. Tow-to-Pep service is available. For appointment scheduling, go to pepboys.com",
     "yext/name": "Pep Boys Auto Service \u0026 Tire"
-  }
+  },
+  "entityTypes": [
+    "yext/location"
+  ],
+  "externalId": "serviceTireCenter",
+  "name": "Service Tire Center"
 }

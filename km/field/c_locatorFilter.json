@@ -1,0 +1,48 @@
+{
+  "$id": "c_locatorFilter",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Locator Filter",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "maxLength": 50,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Tires",
+              "textValue": "TIRES"
+            },
+            {
+              "displayName": "Service",
+              "textValue": "SERVICE"
+            },
+            {
+              "displayName": "State Inspection",
+              "textValue": "STATE_INSPECTION"
+            },
+            {
+              "displayName": "Parts \u0026 Accessories",
+              "textValue": "PARTS_\u0026_ACCESSORIES"
+            },
+            {
+              "displayName": "Speed Shop",
+              "textValue": "SPEED_SHOP"
+            },
+            {
+              "displayName": "Commercial Parts",
+              "textValue": "PEP_EXPRESS_PARTS"
+            },
+            {
+              "displayName": "Special Services",
+              "textValue": "SPECIAL_SERVICES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

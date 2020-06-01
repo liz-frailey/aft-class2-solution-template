@@ -66,7 +66,7 @@
       "sourceColumnName": "Category1 - DIY \u003e URL",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "category1DIY",
+        "id": "c_category1DIY",
         "propertyName": [
           "imageUrl"
         ]
@@ -93,7 +93,7 @@
       "sourceColumnName": "Category1 - DIY \u003e Alternate Text",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "category1DIY",
+        "id": "c_category1DIY",
         "propertyName": [
           "alternateText"
         ]
@@ -120,7 +120,7 @@
       "sourceColumnName": "Category1 - DIY \u003e Description",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "category1DIY",
+        "id": "c_category1DIY",
         "propertyName": [
           "description"
         ]
@@ -147,7 +147,7 @@
       "sourceColumnName": "Category1 - DIY \u003e Clickthrough URL",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "category1DIY",
+        "id": "c_category1DIY",
         "propertyName": [
           "clickthroughUrl"
         ]
@@ -174,7 +174,7 @@
       "sourceColumnName": "Category1 - DIY \u003e Details",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "category1DIY",
+        "id": "c_category1DIY",
         "propertyName": [
           "details"
         ]
@@ -201,7 +201,7 @@
       "sourceColumnName": "DIY \u003e URL",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "dIY",
+        "id": "c_dIY",
         "propertyName": [
           "imageUrl"
         ]
@@ -228,7 +228,7 @@
       "sourceColumnName": "DIY \u003e Alternate Text",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "dIY",
+        "id": "c_dIY",
         "propertyName": [
           "alternateText"
         ]
@@ -255,7 +255,7 @@
       "sourceColumnName": "DIY \u003e Description",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "dIY",
+        "id": "c_dIY",
         "propertyName": [
           "description"
         ]
@@ -282,7 +282,7 @@
       "sourceColumnName": "DIY \u003e Clickthrough URL",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "dIY",
+        "id": "c_dIY",
         "propertyName": [
           "clickthroughUrl"
         ]
@@ -309,7 +309,7 @@
       "sourceColumnName": "DIY \u003e Details",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "dIY",
+        "id": "c_dIY",
         "propertyName": [
           "details"
         ]

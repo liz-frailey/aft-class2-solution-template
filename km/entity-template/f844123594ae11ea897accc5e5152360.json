@@ -1,12 +1,6 @@
 {
   "$id": "f844123594ae11ea897accc5e5152360",
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
-  "name": "Category Pages Content",
-  "externalId": "categoryPagesContent",
-  "localeCode": "en",
-  "entityTypes": [
-    "yext/location"
-  ],
   "content": {
     "c_category1Accessories2": [
       "\u003ca href\u003d\"http://bit.ly/2xZPROf\"\u003eFloor Mats\u003c/a\u003e",
@@ -337,5 +331,11 @@
       "Chemicals"
     ],
     "c_category3Section3Title": "Performance Boosters"
-  }
+  },
+  "entityTypes": [
+    "yext/location"
+  ],
+  "externalId": "categoryPagesContent",
+  "localeCode": "en",
+  "name": "Category Pages Content"
 }

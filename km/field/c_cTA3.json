@@ -1,0 +1,15 @@
+{
+  "$id": "c_cTA3",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Text name for third CTA",
+  "displayName": "CTA3 Name",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

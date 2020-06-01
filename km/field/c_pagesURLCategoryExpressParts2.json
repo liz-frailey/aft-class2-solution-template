@@ -1,0 +1,14 @@
+{
+  "$id": "c_pagesURLCategoryExpressParts2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Pages URL - Category Express Parts",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "c_redirectURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Custom field is used for holding redirects",
+  "displayName": "Redirect URL",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "yext/string"
+}

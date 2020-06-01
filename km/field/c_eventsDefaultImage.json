@@ -1,0 +1,19 @@
+{
+  "$id": "c_eventsDefaultImage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Default image if no events image is provided on a per event basis",
+  "displayName": "Events Default Image",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "minSize": {
+        "width": 0,
+        "height": 0
+      },
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "yext/image"
+}

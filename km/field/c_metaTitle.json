@@ -1,0 +1,13 @@
+{
+  "$id": "c_metaTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Meta Title",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

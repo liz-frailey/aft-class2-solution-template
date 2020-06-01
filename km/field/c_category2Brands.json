@@ -1,0 +1,24 @@
+{
+  "$id": "c_category2Brands",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Category2 - Brands",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/image",
+      "maxLength": 100,
+      "type": {
+        "imageType": {
+          "minSize": {
+            "height": 0,
+            "width": 0
+          },
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

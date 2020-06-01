@@ -1,9 +1,0 @@
-{
-  "$id": "partsAndAccessoriesHours",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Full Service Center Hours",
-  "apiName": "c_partsAndAccessoriesHours",
-  "typeId": "yext/hours",
-  "localization": "PRIMARY_ONLY",
-  "group": "NONE"
-}

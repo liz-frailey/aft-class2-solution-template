@@ -1,12 +1,6 @@
 {
   "$id": "f84412ba94ae11ea897accc5e5152360",
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
-  "name": "Content - Auto Parts \u0026 Accessories",
-  "externalId": "contentAutoPartsAccessories",
-  "localeCode": "en",
-  "entityTypes": [
-    "yext/location"
-  ],
   "content": {
     "c_appImage": {
       "image": {
@@ -484,5 +478,11 @@
       "preferDisplayUrl": false,
       "url": "[[c_pagesURL]]"
     }
-  }
+  },
+  "entityTypes": [
+    "yext/location"
+  ],
+  "externalId": "contentAutoPartsAccessories",
+  "localeCode": "en",
+  "name": "Content - Auto Parts \u0026 Accessories"
 }

@@ -1,0 +1,14 @@
+{
+  "$id": "c_additionalHoursStatus",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Custom Field used to control messaging above \"Get Directions\" and \"Get Tow Truck\" cta. Example: \"Open 7 Days a Week\".",
+  "displayName": "Additional Hours Status",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

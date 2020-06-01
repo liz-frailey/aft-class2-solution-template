@@ -1,0 +1,14 @@
+{
+  "$id": "c_careerCTAText2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Custom field controls the 2nd cta text in the career section",
+  "displayName": "Career CTA Text 2",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

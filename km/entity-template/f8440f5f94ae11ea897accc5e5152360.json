@@ -1,10 +1,10 @@
 {
   "$id": "f8440f5f94ae11ea897accc5e5152360",
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
-  "name": "Categories - Auto Parts \u0026 Service (RSI, RSIP, RSMI, RSMPI, RSPI)",
-  "externalId": "categoriesAutoPartsServiceRsiRsipRsmiRsmpiRspi",
-  "localeCode": "en",
   "entityTypes": [
     "yext/location"
-  ]
+  ],
+  "externalId": "categoriesAutoPartsServiceRsiRsipRsmiRsmpiRspi",
+  "localeCode": "en",
+  "name": "Categories - Auto Parts \u0026 Service (RSI, RSIP, RSMI, RSMPI, RSPI)"
 }

@@ -1,0 +1,14 @@
+{
+  "$id": "c_originalFolder",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Original Folder",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

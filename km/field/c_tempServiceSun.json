@@ -1,0 +1,14 @@
+{
+  "$id": "c_tempServiceSun",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "temp Service Sun",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

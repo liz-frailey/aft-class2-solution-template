@@ -1,0 +1,38 @@
+{
+  "$id": "c_storeBrand",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Store Brand",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Precision Tune",
+          "textValue": "PRECISION_TUNE"
+        },
+        {
+          "displayName": "Pep Boys",
+          "textValue": "PEP_BOYS"
+        },
+        {
+          "displayName": "AAMCO",
+          "textValue": "AAMCO"
+        },
+        {
+          "displayName": "WDAP",
+          "textValue": "WDAP"
+        },
+        {
+          "displayName": "Auto Plus",
+          "textValue": "AUTO_PLUS"
+        },
+        {
+          "displayName": "CAP",
+          "textValue": "CAP"
+        }
+      ]
+    }
+  },
+  "typeId": "yext/option"
+}

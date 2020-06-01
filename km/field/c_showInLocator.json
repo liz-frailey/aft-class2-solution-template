@@ -1,0 +1,12 @@
+{
+  "$id": "c_showInLocator",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Used to determine if secondary brands should show up in the Pep Boys locator",
+  "displayName": "Show in Locator",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

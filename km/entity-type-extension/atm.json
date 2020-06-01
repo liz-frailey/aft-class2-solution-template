@@ -1,27 +1,27 @@
 {
   "$id": "atm",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/atm",
   "enabled": false,
+  "entityType": "yext/atm",
   "field": [
     {
-      "id": "additionalHoursStatus",
+      "id": "c_additionalHoursStatus",
       "required": false
     },
     {
-      "id": "gMB_labels",
+      "id": "c_gMB_labels",
       "required": false
     },
     {
-      "id": "heroImageMobile",
+      "id": "c_heroImageMobile",
       "required": false
     },
     {
-      "id": "metaTitle",
+      "id": "c_metaTitle",
       "required": false
     },
     {
-      "id": "partsAndAccessoriesCategoryPage",
+      "id": "c_partsAndAccessoriesCategoryPage",
       "required": false
     }
   ]

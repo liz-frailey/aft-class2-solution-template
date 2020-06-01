@@ -1,0 +1,24 @@
+{
+  "$id": "c_category1DIY",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Category1 - DIY",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/image",
+      "maxLength": 100,
+      "type": {
+        "imageType": {
+          "minSize": {
+            "height": 0,
+            "width": 0
+          },
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

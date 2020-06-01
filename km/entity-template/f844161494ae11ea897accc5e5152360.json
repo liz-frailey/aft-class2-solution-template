@@ -1,12 +1,6 @@
 {
   "$id": "f844161494ae11ea897accc5e5152360",
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
-  "name": "Wholesale Direct Auto Parts - Categories + Content",
-  "externalId": "wholesaleDirectAutoPartsCategoriesContent",
-  "localeCode": "en",
-  "entityTypes": [
-    "yext/location"
-  ],
   "content": {
     "c_eventsDefaultImage": {
       "image": {
@@ -118,5 +112,11 @@
     "yext/featuredMessage": {
       "description": "Lowest prices on auto parts. Period."
     }
-  }
+  },
+  "entityTypes": [
+    "yext/location"
+  ],
+  "externalId": "wholesaleDirectAutoPartsCategoriesContent",
+  "localeCode": "en",
+  "name": "Wholesale Direct Auto Parts - Categories + Content"
 }

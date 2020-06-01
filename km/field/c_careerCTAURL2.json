@@ -1,0 +1,14 @@
+{
+  "$id": "c_careerCTAURL2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Custom field controls the 2nd cta url in the career section",
+  "displayName": "Career CTA URL 2",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "yext/string"
+}
